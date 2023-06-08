@@ -1,0 +1,85 @@
+
+.nav{
+  width: 100%;
+  background: #F55A5A;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-head {
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+} 
+
+.nav-title{
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15x;
+  line-height: 18px;
+  color: #FFFFFF;
+  margin: 10px;
+}
+
+.nav-icon{
+  width: 24px;
+  height: 24px;
+  padding-top: 8px;
+}
+
+.card{
+  margin-top: 30px;
+  width: 100%;
+  
+}
+
+.img-card{
+  width: 260px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.location-card{
+  display: flex;
+  justify-content: space-between;
+}
+
+.title-location{
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 0.17em;
+  color: #2B283A;
+}
+
+.link-map{
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #918E9B;
+}
+
+
+
+.title{
+font-family: 'Inter';
+font-weight: 700;
+font-size: 25px;
+color: #2B283A;
+}
+
+.date{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #2B283A;
+}
+
+.description{
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #2B283A;
+}
